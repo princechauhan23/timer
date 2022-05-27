@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  height: 180px;
+  width: 130px;
+  border: 5px solid grey;
+}
+.counter0 {
+  height: 55px;
+  width: 130px;
+  /* border: 1px solid black; */
+}
+
+.counter1 {
+  height: 55px;
+  width: 130px;
+}
+
+.play-pause {
+  height: 25px;
+  width: 127px;
+}
